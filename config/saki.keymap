@@ -16,14 +16,6 @@
             >;
         };
 
-         bt_layer {
-			display-name = "Bluetooth";
-			bindings = <
-
-
-            >;        
-        };
-
         extra1 {
             status = "reserved";
         };
