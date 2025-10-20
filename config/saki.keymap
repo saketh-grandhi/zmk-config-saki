@@ -15,5 +15,21 @@
                 &kp G &kp H &kp I &kp J &kp K &kp L &kp M &kp N &kp O &kp P
             >;
         };
+
+         bt_layer {
+			display-name = "Bluetooth";
+			bindings = <
+
+
+            >;        
+        };
+
+        extra1 {
+            status = "reserved";
+        };
+
+        extra2 {
+            status = "reserved";
+        };
     };
 };
